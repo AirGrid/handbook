@@ -52,3 +52,7 @@ Notice the verbosity of the branches, please avoid trying to create the shortest
 ```bash
 $ git checkout -b fix/bug
 ```
+
+## References
+
+- [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)

@@ -15,7 +15,7 @@ A two week sprint will consist of the following meetings:
 - [Demos](#demos)
 - [Retrospective](#retrospective)
 
-![AirGrid sprint timeline](/images/retro-board.png)
+![AirGrid sprint timeline](/images/sprint-timeline.png)
 
 And of course a daily call to mostly see real human faces instead of a dark
 themed editor window, but also to ask questions and learn from each other.

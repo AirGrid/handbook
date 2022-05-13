@@ -18,7 +18,12 @@ A two week sprint will consist of the following meetings:
 ![AirGrid sprint timeline](/images/sprint-timeline.png)
 
 And of course a daily call to mostly see real human faces instead of a dark
-themed editor window, but also to ask questions and learn from each other.
+themed editor window, but also to ask questions and learn from each other. The
+traditional standup update can sometimes be a little jarring, we mix it up by
+making every standup a small demo session, because:
+
+- Demos are more fun that listing off what one has done.
+- It pushes us to build working code throughout the sprint.
 
 ## Planning
 
